@@ -2,4 +2,4 @@ github is a distributed version control system
 github is free software distributed under the GPL
 i will success in three months later
 i love reading and love palying
-i will be late
+i will be late 3 minutes
