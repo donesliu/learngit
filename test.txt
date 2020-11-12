@@ -1,2 +1,2 @@
-github is a version tool
-github is a free software
+github is a distributed version control system
+github is free software
